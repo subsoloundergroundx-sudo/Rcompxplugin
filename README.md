@@ -1,2 +1,0 @@
-# Rcompxplugin
-EMU RCOMP
